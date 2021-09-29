@@ -19,7 +19,7 @@ _Earth System Modeling including ocean biogeochemistry._
 
 - Project : [Modélisation de l'oxygène océanique et de la productivité primaire au Cenomano-Turonien avec le modèle Système Terre IPSL](https://marie-laugie.github.io/projects/1_project/){:target="_blank"}.
 
-Supervisors : Dr Yannick Donnadieu (CEREGE) & Dr. Laurent Bopp (ENS Paris).
+Supervisors : [Dr. Yannick Donnadieu](https://cerege-cl.github.io/team/yannick_donnadieu/){:target="_blank"} (CEREGE) & [Dr. Laurent Bopp](https://www.researchgate.net/profile/Laurent-Bopp){:target="_blank"} (ENS Paris).
 
 ###### `Jan.2014–Ap.2018` Geologist-Geomatician, __Modis/Total__ 
 
