@@ -9,7 +9,7 @@ category: work
 
 <h2>Objective</h2>
 
-The main objective of the Global Carbonates project is to link Phanerozoic carbonate factories to oceanographic parameters (temperature, salinity, productivity) and to global evolution of climate, oceanic circulation and ecosystems. The project aims to build a generalized carbonate prediction model, coherent at global and local reservoir scales, based on the integration on geological data and climate-paleoceanographic modeling studies.
+The main objective of the Global Carbonates project is to link Phanerozoic carbonate factories to oceanographic parameters (temperature, salinity, productivity) and to global evolution of climate, oceanic circulation and ecosystems. The project aims to build a generalized carbonate prediction model, coherent at global and local reservoir scales, based on the integration on geological data and climate-paleoceanographic modeling studies. The project is part of the [CARBONATE CHAIR of Pr. Jean Borgomano](https://carbonatechair.cerege.fr/){:target="_blank"}.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
