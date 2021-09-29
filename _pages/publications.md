@@ -12,8 +12,8 @@ nav: true
 
 ##### `2021`
 
-__[6]__ __Laugié M.__, Donnadieu Y., Ladant J.-B., Bopp L., Ethe C. and F. Raisson, 2021, Exploring the Impact of Cenomanian Paleogeography and Marine Gateways on Oceanic Oxygen, doi:10.1029/2020PA004202, Paleoceanography and Paleoclimatology.[link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020PA004202){:target="_blank"}
-- Associated data: [[link](https://zenodo.org/record/4915874#.YVQ0E6A69SM){:target="_blank"}]
+__[6]__ __Laugié M.__, Donnadieu Y., Ladant J.-B., Bopp L., Ethe C. and F. Raisson, 2021, Exploring the Impact of Cenomanian Paleogeography and Marine Gateways on Oceanic Oxygen, doi:10.1029/2020PA004202, Paleoceanography and Paleoclimatology.[[link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020PA004202){:target="_blank"}]
+- Associated data: [[https://zenodo.org/record/4915874#.YVQ0E6A69SM](https://zenodo.org/record/4915874#.YVQ0E6A69SM){:target="_blank"}]
 
 <p>&nbsp;</p>
 
