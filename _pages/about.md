@@ -11,7 +11,7 @@ profile:
     <p>CEREGE</p>
     <p>Technopole Arbois</p>
     <p>13545 Aix en Provence</p>
-    <p></p>
+    <p>_________</p>
     <p>CSTJF</p>
     <p>64000 Pau</p>
 
