@@ -9,18 +9,17 @@ nav: true
 ## Positions and Education
 
 
-###### `2017–prst` Research director CNRS (eq. Professor), __CEREGE__, AMU, Aix en Provence, France.
+###### `Sept. 2021 – prst` Post-doctoral Researcher, __CEREGE__ (AMU, Aix en Provence) & TotalEnergies, Pau, France.
 
-###### `2013-2013`*Habilitation à Diriger des Recherches*, HDR, __UVSQ__
+###### `Ap. 2018 - July 2021`  Ph.D. in paleoclimate modeling, __CEREGE__ (AMU, Aix en Provence) & TotalEnergies, Pau, France.
 
-###### `2004–2016` Permanent CNRS researcher (eq. Lecturer), __LSCE__
+###### `Jan. 2014 – Ap. 2018` Geologist-Geomatician, __Modis/Total__, 
 
-###### `2003–2004` Postdoctoral researcher supervised by Raymond PIERREHUMBERT, paleoclimate modeling, __University of Chicago__, USA.
+###### `2013` Junior Exploration Geologist __Total E&P Norge__, Stavanger, Norway.
 
-###### `2000–2003` Ph.D. in paleoclimate modeling, Laboratoire des Sciences du climat et de l’Environnement (LSCE), Paris, France.
-- __Numerical modeling of Neoproterozoic glaciations.__ Supervisors: Gilles RAMSTEIN (LSCE).
+###### `2010 - 2012`  M.S. in Patroleum Geophysics & Geosciences, __Université de Pau et des Pays de l'Adour__, Pau, France.
 
-###### `1997–2000` M.S. in Earth Sciences, *Ecole Normale Supérieure de Lyon*
+###### `2007–2010` B.Sc. in Earth Sciences, __Université de Pau et des Pays de l'Adour__, Pau, France.
 
 <p>&nbsp;</p>
 
