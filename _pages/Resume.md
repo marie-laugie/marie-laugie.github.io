@@ -10,7 +10,15 @@ nav: true
 
 ###### `Sept.2021–prst` Post-doctoral Researcher, __CEREGE__, AMU, Aix en Provence & __TotalEnergies__, Pau, France.
 
+- Project : [Source Rock Prediction](https://marie-laugie.github.io/projects/2_project/){:target="_blank"}
+- Project : [Global Carbonate Prediction](https://marie-laugie.github.io/projects/3_project/){:target="_blank"}
+
+_Earth System Modeling including ocean biogeochemistry._
+
 ###### `Ap.2018-July2021`  Ph.D. in paleoclimate modeling, __CEREGE__, AMU, Aix en Provence & __TotalEnergies__, Pau, France.
+
+- Project : [Modélisation de l'oxygène océanique et de la productivité primaire au Cenomano-Turonien avec le modèle Système Terre IPSL](https://marie-laugie.github.io/projects/1_project/){:target="_blank"}.
+Supervisors : Dr Yannick Donnadieu (CEREGE) & Dr. Laurent Bopp (ENS Paris).
 
 ###### `Jan.2014–Ap.2018` Geologist-Geomatician, __Modis/Total__ 
 
