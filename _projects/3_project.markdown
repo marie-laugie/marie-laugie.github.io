@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cenozoic AMOC history and the marine carbon cycle
+title: Global Carbonate Prediction
 description: 2021-2022
 img: /assets/img/7.jpg
 importance: 3
