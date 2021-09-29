@@ -67,6 +67,7 @@ __[1]__ __Laugié M.__, Donnadieu Y., Bopp, L., Ferry J.N., Raisson F., Ladant J
 
 
 ##### `Invited talks in workshops`
+
 __[2]__ __Laugié M.__, Michel J., Pohl A., Borgomano J., Lanteaume C., Letteron A., Scotese C.R., Sayago J., Donnadieu Y., Carbonate factory prediction through space and time: A spatial model based on environmental parameters. Mapping of the Continental Shelves Online-Workshop 2020. Hambourg University/Palmod-German Climate Modeling Initiative.
 
 __[1]__ __Laugié M.__, Benefits from GIS in geosciences: cartography, spatial analysis and spatial modeling, 2016. 4th seminar of the project PAssive Margins Exploration LAboratories (PAMELA). IFREMER, Brest (France).
