@@ -22,6 +22,12 @@ Supervisors : Dr Yannick Donnadieu (CEREGE) & Dr. Laurent Bopp (ENS Paris).
 
 ###### `Jan.2014–Ap.2018` Geologist-Geomatician, __Modis/Total__ 
 
+- Project : PAssive Margins Eexploration LAboratories - [PAMELA](https://wwz.ifremer.fr/content/download/137609/file/DP_PAMELA.pdf){:target="_blank"}.
+_Cartography & GIS_
+- Project : [Global Carbonate Prediction](https://marie-laugie.github.io/projects/3_project/){:target="_blank"}
+_Cartography, Spatial Analysis & Spatial Modeling, Geological Synthesis, Data Management._
+
+
 ###### `2013` Junior Exploration Geologist, __Total E&P Norge__, Stavanger, Norway.
 
 
