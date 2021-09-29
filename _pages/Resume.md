@@ -22,7 +22,7 @@ Supervisors : Dr Yannick Donnadieu (CEREGE) & Dr. Laurent Bopp (ENS Paris).
 
 ###### `Jan.2014–Ap.2018` Geologist-Geomatician, __Modis/Total__ 
 
-- Project : PAssive Margins Eexploration LAboratories - [PAMELA](https://wwz.ifremer.fr/content/download/137609/file/DP_PAMELA.pdf){:target="_blank"}.
+- Project : PAssive Margins Exploration LAboratories - [PAMELA](https://wwz.ifremer.fr/content/download/137609/file/DP_PAMELA.pdf){:target="_blank"}.
 _Cartography & GIS_
 - Project : [Global Carbonate Prediction](https://marie-laugie.github.io/projects/3_project/){:target="_blank"}
 _Cartography, Spatial Analysis & Spatial Modeling, Geological Synthesis, Data Management._
@@ -30,6 +30,13 @@ _Cartography, Spatial Analysis & Spatial Modeling, Geological Synthesis, Data Ma
 
 ###### `2013` Junior Exploration Geologist, __Total E&P Norge__, Stavanger, Norway.
 
+- Project : Geological synthesis of the Lower Jurassic Statfjord Formation (Northern North Sea assets Viking Graben, Q15 to Q36).
+_Well-correlation, Core/Well-log interpretatio, Seismic interpretation, Biostratigraphy._
+
+###### `2012` JuniorGeologist (Internship), __Total__, Pau, France.
+
+- Project : Sedimentological & Reservoir Modeling of La Baronia tidal deposits (Ager basin, Spain).
+_Field-trip, Calibration & Interpretation of LiDAR data, 3D geomodeling._
 
 ## Education
 
