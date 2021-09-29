@@ -2,7 +2,7 @@
 layout: page
 title: Global Carbonate Prediction
 description: Predict distribution of Carbonate Factories through Space and Time
-img: /assets/img/GlobalCarb.png
+img: /assets/img/tolaria.png
 importance: 2
 category: work
 ---
