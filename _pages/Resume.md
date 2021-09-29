@@ -18,6 +18,7 @@ _Earth System Modeling including ocean biogeochemistry._
 ###### `Ap.2018-July2021`  Ph.D. in paleoclimate modeling, __CEREGE__, AMU, Aix en Provence & __TotalEnergies__, Pau, France.
 
 - Project : [Modélisation de l'oxygène océanique et de la productivité primaire au Cenomano-Turonien avec le modèle Système Terre IPSL](https://marie-laugie.github.io/projects/1_project/){:target="_blank"}.
+
 Supervisors : Dr Yannick Donnadieu (CEREGE) & Dr. Laurent Bopp (ENS Paris).
 
 ###### `Jan.2014–Ap.2018` Geologist-Geomatician, __Modis/Total__ 
@@ -30,12 +31,12 @@ _Cartography, Spatial Analysis & Spatial Modeling, Geological Synthesis, Data Ma
 
 ###### `2013` Junior Exploration Geologist, __Total E&P Norge__, Stavanger, Norway.
 
-- Project : Geological synthesis of the Lower Jurassic Statfjord Formation (Northern North Sea assets Viking Graben, Q15 to Q36).
-_Well-correlation, Core/Well-log interpretatio, Seismic interpretation, Biostratigraphy._
+- Geological synthesis of the Lower Jurassic Statfjord Formation (Northern North Sea assets, Viking Graben, Q15 to Q36).
+_Well-correlation, Core/Well-log interpretation, Seismic interpretation, Biostratigraphy._
 
-###### `2012` JuniorGeologist (Internship), __Total__, Pau, France.
+###### `2012` Junior Geologist (Internship), __Total__, Pau, France.
 
-- Project : Sedimentological & Reservoir Modeling of La Baronia tidal deposits (Ager basin, Spain).
+- Sedimentological & Reservoir Modeling of La Baronia tidal deposits (Ager basin, Spain).
 _Field-trip, Calibration & Interpretation of LiDAR data, 3D geomodeling._
 
 ## Education
