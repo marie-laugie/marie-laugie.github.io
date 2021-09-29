@@ -29,8 +29,8 @@ _Cartography & GIS_
 _Cartography, Spatial Analysis & Spatial Modeling, Geological Synthesis, Data Management._
 
 
-###### `2013` Junior Exploration Geologist, __Total E&P Norge__, Stavanger, Norway.
-_Volontariat International en entreprise (V.I.E)_
+###### `2013` Junior Exploration Geologist (V.I.E), __Total E&P Norge__, Stavanger, Norway.
+_Volontariat International en Entreprise_
 
 - Geological synthesis of the Lower Jurassic Statfjord Formation (Northern North Sea assets, Viking Graben, Q15 to Q36).
 _Well-correlation, Core/Well-log interpretation, Seismic interpretation, Biostratigraphy._
