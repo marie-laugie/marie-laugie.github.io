@@ -2,10 +2,10 @@
 layout: page
 title: Research
 permalink: /research/
-description: I use the IPSL-CM5A2 Earth System Model in order 
+description: I use the IPSL-CM5A2 Earth System Model in order to better understand and constrain past climatic & oceanographic parameters controlling the deposition of organic-rich sediments & neritic carbonate platforms.
 nav: true
 display_categories:
-horizontal: false
+horizontal: true
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
