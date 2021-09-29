@@ -13,7 +13,7 @@ category: work
     </div>
 </div>
 <div class="caption">
-    Distribution of maximum TOC values in the Southern Atlantic during Cenomano-Turonian.
+    Distribution of maximum TOC values in the Southern Atlantic during Cenomano-Turonian (Laugié, 2021).
 </div>
 
 
