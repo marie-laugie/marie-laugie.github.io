@@ -2,7 +2,7 @@
 layout: smallfont_page
 permalink: /Publications/
 title: Publications
-description: Updated list of written publications
+description: Updated list of written publications & communications in meetings
 nav: true
 ---
 
@@ -41,5 +41,21 @@ __[1]__ Pohl A., __Laugié M.__, Borgomano J., Michel J., Lanteaume C., Scotese 
 
 ##### `Talks in International Meetings`
 
+[] Lettéron, A., Sayago, J., Michel, J., Lanteaume, C., Pohl, A., __Laugié, M.__, Donnadieu, Y., Kenter, J., Borgomano, J., Marine Carbonate Factories and Stratigraphic Response Through Time and Space: Methodology, Examples and Implications. AGU 2020, online.
+
+[] __Laugié M.__, Donnadieu, Y., Ladant J.-B., Green M., Bopp L. and Raisson F., 2020
+
+[] Michel J., __Laugié M.__, Pohl A., Lanteaume C., Borgomano J., Kenter J. Carbonate factories: a model of global carbonate platform distribution. Bathurst 2019, Mallorca, Spain.
+
+[] Pohl A., __Laugié M.__, Borgomano J, Michel J., Lanteaume C., Scotese C.R., Frau C., Poli E., Masse J.-P., Donnadieu Y., 2019. Quantifying the palaeogeographical driver of Cretaceous carbonate platforms development using niche modeling. STRATI 2019, Milano (Italy).
+
+[] __Laugié M.__, Pohl A., Michel J., Lanteaume C., Scotese C.R., Frau C., Poli E., Masse J.-P., Donnadieu Y., Borgomano J., 2018. Carbonate factory prediction through space and time: A spatial model based on environmental parameters. EGU 2019, Vienna (Austria).
+
+[] Pohl A., __Laugié M.__, Michel J., Lanteaume C., Scotese C.R., Frau C., Poli E., Masse J.-P., Donnadieu Y., Borgomano J., 2018. Quantifying the palaeogeographical driver of Cretaceous carbonate platforms development using niche modeling. RST 2018, Lille (France).
+
+[] Pohl A., __Laugié M.__, Michel J., Lanteaume C., Scotese C.R., Frau C., Poli E., Masse J.-P., Donnadieu Y., Borgomano J., 2017. Quantifying the palaeogeographical driver of Cretaceous carbonate platforms development using niche modeling. IPC 5, Paris (France).
+
 ##### `Posters in International Meetings`
+
+##### Invted talks in workshops`
 
