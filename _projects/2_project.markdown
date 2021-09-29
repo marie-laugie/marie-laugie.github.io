@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Source Rock Prediction
-description: 2021-2022
-img: /assets/img/Antarctica-IS-Ladant2014.png
+description: Predict Production/Preservation/Dilution parameters through geological times.
+img: /assets/img/OAE2.png
 importance: 2
-category: MasterPhD
+category: work
 ---
 
 <div class="row">
