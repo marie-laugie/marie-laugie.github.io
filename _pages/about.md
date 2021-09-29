@@ -12,7 +12,8 @@ profile:
     <p>Technopole Arbois</p>
     <p>13545 Aix en Provence</p>
     <p>_________</p>
-    <p>CSTJF</p>
+    <p>Centre Scientifique & Technique</p>
+    <p>Jean Feger - TotalEnergies</p>
     <p>64000 Pau</p>
 
 news: false # includes a list of news items
