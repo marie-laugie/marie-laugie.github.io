@@ -21,7 +21,7 @@ _Earth System Modeling including ocean biogeochemistry._
 
 Supervisors : [Dr. Yannick Donnadieu](https://cerege-cl.github.io/team/yannick_donnadieu/){:target="_blank"} (CEREGE) & [Dr. Laurent Bopp](https://www.researchgate.net/profile/Laurent-Bopp){:target="_blank"} (ENS Paris).
 
-###### `Jan.2014–Ap.2018` Geologist-Geomatician, __Modis/Total__ 
+###### `2014–Ap.2018` Geologist-Geomatician, __Modis/Total__ 
 
 - Project : PAssive Margins Exploration LAboratories - [PAMELA](https://wwz.ifremer.fr/content/download/137609/file/DP_PAMELA.pdf){:target="_blank"}.
 _Cartography & GIS_
