@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Opportunities
-permalink: /Opportunities/
-description:  If you are passionate about paleoclimates and the functioning of our planet in general, and if you are good with computers and new technologies, do not hesitate to contact us. You will find below some examples of research topics adaptable to Master 2 or PhD thesis with available funding. 
+title: Research
+permalink: /research/
+description: I use the IPSL-CM5A2 Earth System Model in order 
 nav: true
-display_categories: [MasterPhD, Postdoc]
+display_categories:
 horizontal: false
 ---
 <div class="projects">
@@ -40,7 +40,7 @@ horizontal: false
       <div class="container">
         <div class="row row-cols-2">
         {% for project in sorted_projects %}
-          {% include projects_horizontal.html %}
+          {% include projects_hrz.html %}
         {% endfor %}
         </div>
       </div>
