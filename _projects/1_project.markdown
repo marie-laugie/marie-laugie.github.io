@@ -9,11 +9,11 @@ category: work
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/SST-30X-2X-Ordovicien.png' | relative_url }}" alt="" title="Model ouputs"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Fig-Oxygene-PreOAE2.png' | relative_url }}" alt="" title="Model ouputs"/>
     </div>
 </div>
 <div class="caption">
-    Sea Surface Temperature as simulated for 30 and 2 times the pre-industrial CO2 level (280 ppm) using IPSL-CM5A2
+    Simulated seafloor dissolved oxygen concentration compared with redox data for the pre-Oceanic Anoxic Event 2 (OAE2) period (Laugié et al., 2021)
 </div>
 
 
