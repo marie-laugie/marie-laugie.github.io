@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Source Rock Prediction
-description: Predict Production/Preservation/Dilution parameters through geological times.
+description: Predict Production, Preservation & Dilution parameters through geological times.
 img: /assets/img/OAE2.png
 importance: 2
 category: work
